@@ -47,3 +47,12 @@ Database very important (need to use TYPEORM)
                      talk about how we gonna do very simple local environment set up
           explained:
                      talk about backend(nestjs) in order to build the entire project need to have "database and the backend"(build API SERVICE)
+# index3.html
+6.talk about CSS HTML.JavaScript(important)learn basic visual 
+        codedownload live server in extension
+        learn to type basic code "h1,link,shift+1"( basic HTML Skeleton)
+        co dau luon co duoi( head-head, body-body,html-html)
+        learn created CSS file , CSS its the language we are going to describe the entrie web pagehow its gonna represent the color, font size, bigger font,smaller font,display the text, the background color,....
+        code link la noi ve duong dan link cua file CSS ":href="/index.css"
+        JavaScript we just need the basics 
+        script code
