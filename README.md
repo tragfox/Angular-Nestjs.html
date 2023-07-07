@@ -56,3 +56,40 @@ Database very important (need to use TYPEORM)
         code link la noi ve duong dan link cua file CSS ":href="/index.css"
         JavaScript we just need the basics 
         script code
+# index4.html
+7. nestJS setup &postman
+
+        learn to find terminal in your system
+        
+        install environment nestjs
+        
+        postman is a tool, its a software, when we develop backend, we need to fetch data from backend or
+        
+        when we develop a local, evironment for backend need to use software
+        
+ 8. database environment setup for postgresSQL
+        
+        download postgresSQL
+        
+        PG admin.org its a visualized database management tool
+9. Nodejs express and server practice
+
+        learn how to use terminal
+        
+        notice regular server look like, and how to code
+        
+        npm init -y command for you to generate a file package.json
+        
+        npm i express command
+        
+        create new file server.js
+        
+        use code a too naming a new variable called 'express', "require some thing" the express is coming from the "node module"
+        
+        console log in the backend
+        
+        press control +C to get out of the terminal
+        
+        learn the second important thing app.get(),app.listen()
+        
+        learn how to send the HTML file back to browser inside your server.js
