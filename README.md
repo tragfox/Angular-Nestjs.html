@@ -158,4 +158,48 @@ Database very important (need to use TYPEORM)
         we gonna have all kind of like  functionalities :"get" put" delete",...
         
         "readonly" is we cannot change it : can only read and private
+# index6.html
+12. Database set up
+
+        typeorm its help us to manipulating the data and connect between our  backend and the database
         
+        install three package npm install
+        
+        copy code  from nestJS and then import to app.module
+        
+        synchronize when hook it up this database to our backend it will update(delete everthing inside database and rechange everthing ) need to careful
+        
+        if you are in production you need to make sure you turn this "false"
+        
+        make sure postgresSQL(PG admin) run 
+        
+13. NestJS database visualization with LucidChart&NestJS "CRUD" generator
+
+        using LucidChart to to visualize database table
+        
+        learn about database and how it will look like
+        
+        using CRUD generator it its going to generate alot of things "module ,controller, service,....."
+        
+        using nest g resource ":anyname"
+        p/s if you using  "--dry-run" this command code will help you run it like a simulation and nothing will changes
+        
+        in this project we gonna use REST API
+        
+        CRUD :
+        
+        create its mean C
+        
+        find all find one its mean R(read)
+        
+        update its mean U
+        
+        remove its mean D(delete)
+        
+        entities folder
+        
+        DTO folder its called data transfer object that we going to describe what in kind of thing(data)
+        
+        Text ist alway String
+        
+        price, quantity alway using number
